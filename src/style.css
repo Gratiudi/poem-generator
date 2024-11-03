@@ -8,9 +8,9 @@ h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: rgb(74, 40, 40);
   font-size: 40px;
-  background-color: rgba(198, 180, 145, 0.5);
+  background-color: rgba(198, 180, 145, 0.3);
   padding: 20px;
-  margin: 50px 80px;
+  margin: 50px 420px;
   border-radius: 5px;
   box-shadow: 5px 5px 5px rgba(127, 116, 93, 0.3);
 }
@@ -19,7 +19,7 @@ form {
   margin: 0 20px 30px 20px;
 }
 #poem-title {
-  padding: 10px;
+  padding: 15px;
   width: 40%;
   border: 2px solid rgb(92, 63, 63);
   border-radius: 5px;
@@ -27,7 +27,7 @@ form {
   color: black;
 }
 #submit {
-  padding: 10px;
+  padding: 15px;
   border-radius: 5px;
   width: 10%;
   background-color: rgba(233, 235, 235, 0.3);
@@ -44,6 +44,7 @@ form {
   color: rgb(39, 39, 35);
   background-color: rgba(255, 255, 255, 0.4);
   line-height: 2;
+  border-left: 5px solid rgb(92, 63, 63);
 }
 a {
   color: black;
