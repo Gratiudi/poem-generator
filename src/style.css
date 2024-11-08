@@ -16,7 +16,13 @@ h1 {
 }
 form {
   text-align: center;
-  margin: 0 20px 30px 20px;
+  margin: 0 20px 10px 20px;
+}
+.ie {
+  text-align: center;
+  position: relative;
+  right: 130px;
+  color: rgba(20, 20, 19, 0.8);
 }
 #poem-title {
   padding: 15px;
